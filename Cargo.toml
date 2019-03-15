@@ -1,0 +1,9 @@
+[package]
+name = "menae"
+version = "0.1.0"
+authors = ["Larry Hsiao <larryhsiao@silverhetch.com>"]
+edition = "2018"
+
+[dependencies]
+kv = "0.8.1"
+serde_json = "1.0"
